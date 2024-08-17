@@ -1,0 +1,19 @@
+{
+  "name": "verpijptesting",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ec",
+  "license": "MIT",
+  "private": "true",
+  "scripts":{
+    "start": "node server.js"
+    },
+  "dependencies": {
+    "express": "^4.16.4",
+    "serve-static": "^1.13.2"
+  }
+}
